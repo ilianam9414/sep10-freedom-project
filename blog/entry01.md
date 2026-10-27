@@ -1,7 +1,8 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Architecture, 
+##### 10.26.2026
 
-Text
+## Why did I choose Architecture?
+### 
 
 [Next](entry02.md)
 
