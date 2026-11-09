@@ -1,5 +1,5 @@
 # Content
-Topic: **Architecture**
+Topic: **Fashion**
 
 ## Overview/Introduction/Context
 * 
@@ -14,8 +14,9 @@ Topic: **Architecture**
 
 ##### Hardware
  * Augmented reality(AR)
-   * Virtual reality replaces the real world, while augmented reality is used to augment or modify the real world, making an interactive experience that is invaluable for architects.
-   * augmented reality architecture tools technology.jpg
+   *With VR, designers can create virtual prototypes of their designs and see how they look at a model before they're even created in real life. This helps to speed up the design process and make it more efficient.
+  *
+
 
 ## Part B: possible future technology
 * Idea
