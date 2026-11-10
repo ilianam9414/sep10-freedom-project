@@ -23,7 +23,7 @@ Topic: **Fashion**
         * Then you carefully cut out the pieces of a future T-shirt
         * You use **Sewing machine** to connect all the pieces together
         * Now you have a T-shirt
-    * ![Sewing machine](https://www.flickr.com/photos/192112438@N05/50940150478)
+    * ![Sewing machine](https://www.google.com/imgres?q=sewing%20machine&imgurl=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2Fliftarn_Sewing_machine.png&imgrefurl=https%3A%2F%2Fpublicdomainvectors.org%2Fen%2Ffree-clipart%2FSewing-machine-vector-drawing%2F10290.html&docid=foIMUD1-CKJGDM&tbnid=54gdvsEe0JzqtM&vet=12ahUKEwjlyp-F2P2XAxU0BYAAHfxuBZAQnPAOegQIOxAA..i&w=500&h=406&hcb=2&ved=2ahUKEwjlyp-F2P2XAxU0BYAAHfxuBZAQnPAOegQIOxAA)
 
 ## Part B: possible future technology
 * Idea
