@@ -10,10 +10,13 @@ The two main links I used were, [Morpholio Trace](https://morpholioapps.com/trac
  ## Skills
 
  ####  Googling 
- One skill that I learned during this experience is How to Google. I say this because in this part of the project, we were able to use Google and do different research for different technologies in different fields of careers. When I looked up "architecture innovations," I found a lot of cool stuff, but it wasn't necessarily technology. A lot of it was design-related, such as repurposing shipping containers for things like gardens or homes. So I had to add the word "technology" to my search and that really helped me confirm that I'm interested in existing and also future technology of architecture.
+ One skill that I learned during this experience is How to Google. I say this because in this part of the project, we were able to use Google and do different research for different technologies in different fields of careers. When I looked up "architecture innovations," I found a lot of stuff, but it wasn't necessarily technology. A lot of it was design-related, such as repurposing shipping containers for things like gardens or homes. So I had to add the word "technology" to my search and that really helped me confirm that I'm interested in existing and also future technology of architecture. 
 
 #### Time management 
-I have several commitments outside of school, such as doing my homework with my little sister every day, doing taekwondo, and doing home chores. But my workload at school is becoming busier, so I needed to make more time for this project as well as my english class. So I decided to . I think this change will help moving forward.
+I have several commitments outside of school, such as doing homework with my little sister every day, doing taekwondo, and doing home chores as well as going to Staffing at my taekwondo. But my workload at school is becoming busier, so I needed to make more time for this project as well as my English class. So I decided to limit my Staffing to make time for this project. I think this change will help moving forward.
+
+## Next Steps
+I look forward to researching the existing innovations in architecture!
 [Next](entry02.md)
 
 [Home](../README.md)
