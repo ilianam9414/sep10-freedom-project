@@ -10,16 +10,10 @@ The two main links I used were, [Morpholio Trace](https://morpholioapps.com/trac
  ## Skills
 
  ####  Googling 
- 
  One skill that I learned during this experience is How to Google. I say this because in this part of the project, we were able to use Google and do different research for different technologies in different fields of careers. When I looked up "architecture innovations," I found a lot of cool stuff, but it wasn't necessarily technology. A lot of it was design-related, such as repurposing shipping containers for things like gardens or homes. So I had to add the word "technology" to my search and that really helped me confirm that I'm interested in existing and also future technology of architecture.
 
- #### Communication
- 
-Another skill that I also achieved was how to communicate. After googling, we needed to see which article matches with the topic by reading closely. There were a lot of terms I didn't know, such as "CAD" (which I then Googled, and that ties into my first skill. By the way, it means "computer aided design"). But reading an article is a lot different than reading a novel. A lot of articles have headings and subheadings that break up the text into smaller chunks, making it easier to read. I think that also helps me in the way that I write, for example, I added headings to this blog entry so that hopefully it's easier for you to read!
-
 #### Time management 
-
-I have several commitments outside of school, such as picking up my brother from school every day, being on a swim team, and being in a gaming club two days a week. But my workload at school is becoming busier, so I needed to make more time for this project as well as my history class. So I decided to cut back from two days of gaming club per week to just one day per week. I think this change will help moving forward.
+I have several commitments outside of school, such as doing my homework with my little sister every day, doing taekwondo, and doing home chores. But my workload at school is becoming busier, so I needed to make more time for this project as well as my english class. So I decided to . I think this change will help moving forward.
 [Next](entry02.md)
 
 [Home](../README.md)
